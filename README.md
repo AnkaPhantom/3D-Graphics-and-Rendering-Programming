@@ -1,1 +1,1 @@
-# CSCI580-3D-Graphics-and-Rendering
+3D Graphics and Rendering Practice
